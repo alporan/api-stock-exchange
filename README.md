@@ -1,5 +1,11 @@
 # Stock Exchange API
 
+## Prerequisites 
+
+1. [Apache Maven 3.8.6](https://maven.apache.org/download.cgi)
+2. [JDK 21](https://docs.aws.amazon.com/corretto/latest/corretto-21-ug/downloads-list.html)
+
+
 ## How to run
 
 1. Clone the repository.
